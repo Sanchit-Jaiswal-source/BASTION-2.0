@@ -18,9 +18,9 @@ Open the local URL printed by Vite (usually `http://localhost:5173`). Create a p
 
 ## GitHub Pages
 
-The production build is deployed to [the BASTION Pages site](https://sanchit-jaiswal-source.github.io/BASTION/) by `.github/workflows/pages.yml`. After merging this workflow, set **Settings → Pages → Build and deployment → Source** to **GitHub Actions**. The build uses the `/BASTION/` base path required by this repository's Pages URL.
+The production build is deployed to [the BASTION 2.0 Pages site](https://sanchit-jaiswal-source.github.io/BASTION-2.0/) by `.github/workflows/pages.yml`. The build uses the `/BASTION-2.0/` base path required by this repository's Pages URL.
 
-Repository: https://github.com/Sanchit-Jaiswal-source/BASTION
+Repository: https://github.com/Sanchit-Jaiswal-source/BASTION-2.0
 
 ## Feature map
 
